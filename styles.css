@@ -1,0 +1,39 @@
+body{
+    background-color: gray;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+
+
+
+#piktur {
+    height: 300px;
+    width: auto;
+    border-radius: 18px;
+}
+
+#qrcode {
+    display: flex;
+    background: white;
+    padding: 20px;
+    padding-bottom: 80px;
+    max-width: 300px;
+    border-radius: 18px;
+    
+    flex-direction: column;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    
+ 
+}
+
+
+#para {
+    font-size: 15px;
+    color: slategray
+}
+
